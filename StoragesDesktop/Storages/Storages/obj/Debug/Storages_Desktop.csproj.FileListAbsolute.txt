@@ -1,0 +1,233 @@
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages_Desktop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmAddUpdateCategory.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmAddUpdateItem.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmAddUpdateStorage.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmAddUpdateUnit.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmMain.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmOperationsStorages.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.People.Controls.ctrlPersonCard.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Properties.Resources.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Test.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages_Desktop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages.exe.config
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages.exe
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages.pdb
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages_BuisnessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages_BuisnessLayer.pdb
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.People.frmAddUpdatePerson.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.741DC314.Up2Date
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.exe
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.pdb
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.People.frmFindPersoncs.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.People.frmListPeople.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.People.frmShowPersonInfo.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Employees.Controls.ctrlEmployeeCard.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Employees.Controls.ctrlEmployeeCardWithFilter.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Employees.frmEmployeeInfo.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Employees.frmAddUpdateEmployee.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Employees.frmListEmployees.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Employees.frmChangePasswordEmployee.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Units.frmListUnits.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Categories.frmListCategories.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Items.frmListItems.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Storages.frmListStorages.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Storages.frmStorageContent.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Storages.frmListOperationsStorages.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Items.frmShowItem.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Items.frmItemContentInStorage.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\aa\Storages.resources.dll
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\ar\Storages.resources.dll
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmAddUpdateCategory.aa.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmAddUpdateCategory.ar.resources
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\aa\Storages.resources.dll
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\ar\Storages.resources.dll
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Items.frmUpdateUnitItem.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages_Desktop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Categories.frmListCategories.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Employees.Controls.ctrlEmployeeCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Employees.Controls.ctrlEmployeeCardWithFilter.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Employees.frmChangePasswordEmployee.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Employees.frmEmployeeInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Employees.frmListEmployees.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmAddUpdateCategory.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmAddUpdateItem.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Items.frmItemContentInStorage.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Items.frmListItems.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Items.frmShowItem.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Items.frmUpdateUnitItem.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.People.Controls.ctrlPersonCardWithFilter1.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.People.frmFindPersoncs.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmAddUpdateStorage.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Storages.frmListOperationsStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Storages.frmListStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Storages.frmStorageContent.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmAddUpdateUnit.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmMain.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmOperationsStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.People.Controls.ctrlPersonCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.People.frmAddUpdatePerson.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.People.frmListPeople.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.People.frmShowPersonInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Properties.Resources.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Test.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Units.frmListUnits.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmAddUpdateCategory.aa.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmAddUpdateCategory.ar.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages_Desktop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages.exe.config
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages.exe
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\aa\Storages.resources.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\ar\Storages.resources.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages_BuisnessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\bin\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\aa\Storages.resources.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\ar\Storages.resources.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.741DC314.Up2Date
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.exe
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Employees.frmAddUpdateEmployee.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Users.ctrlUserCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Users.frmAddUpdateUser.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Users.frmChangePassword.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Users.frmPermissions.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Users.frmListUsers.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Users.frmUserInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.login.frmLogin.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.frmConvertBetweenStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages\obj\Debug\Storages.Storages.frmListOperationsConvertStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages.exe.config
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages.exe.manifest
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages.application
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages.exe
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\aa\Storages.resources.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\ar\Storages.resources.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages_BuisnessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages_Desktop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Categories.frmListCategories.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmConvertBetweenStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Employees.Controls.ctrlEmployeeCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Employees.Controls.ctrlEmployeeCardWithFilter.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Employees.frmAddUpdateEmployee.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Employees.frmChangePasswordEmployee.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Employees.frmEmployeeInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Employees.frmListEmployees.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmAddUpdateCategory.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmAddUpdateItem.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Items.frmItemContentInStorage.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Items.frmListItems.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Items.frmShowItem.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Items.frmUpdateUnitItem.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.login.frmLogin.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.People.Controls.ctrlPersonCardWithFilter1.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.People.frmFindPersoncs.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmAddUpdateStorage.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Storages.frmListOperationsConvertStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Storages.frmListOperationsStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Storages.frmListStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Storages.frmStorageContent.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmAddUpdateUnit.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmMain.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmOperationsStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.People.Controls.ctrlPersonCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.People.frmAddUpdatePerson.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.People.frmListPeople.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.People.frmShowPersonInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Properties.Resources.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Test.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Units.frmListUnits.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Users.ctrlUserCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Users.frmAddUpdateUser.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Users.frmChangePassword.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Users.frmListUsers.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Users.frmPermissions.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Users.frmUserInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmAddUpdateCategory.aa.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmAddUpdateCategory.ar.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages_Desktop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\aa\Storages.resources.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\ar\Storages.resources.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.exe.manifest
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.application
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.741DC314.Up2Date
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.exe
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages_DataAccessLayer.dll.config
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.login.frmSettingsNetwork.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.login.frmCode.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages.exe.config
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages.exe.manifest
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages.application
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages.exe
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\aa\Storages.resources.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\ar\Storages.resources.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages_BuisnessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\bin\Debug\Storages_DataAccessLayer.dll.config
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages_Desktop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Categories.frmListCategories.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.login.frmCode.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.login.frmSettingsNetwork.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmConvertBetweenStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Employees.Controls.ctrlEmployeeCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Employees.Controls.ctrlEmployeeCardWithFilter.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Employees.frmAddUpdateEmployee.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Employees.frmChangePasswordEmployee.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Employees.frmEmployeeInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Employees.frmListEmployees.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmAddUpdateCategory.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmAddUpdateItem.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Items.frmItemContentInStorage.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Items.frmListItems.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Items.frmShowItem.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Items.frmUpdateUnitItem.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.login.frmLogin.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.People.Controls.ctrlPersonCardWithFilter1.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.People.frmFindPersoncs.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmAddUpdateStorage.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Storages.frmListOperationsConvertStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Storages.frmListOperationsStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Storages.frmListStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Storages.frmStorageContent.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmAddUpdateUnit.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmMain.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmOperationsStorages.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.People.Controls.ctrlPersonCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.People.frmAddUpdatePerson.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.People.frmListPeople.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.People.frmShowPersonInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Properties.Resources.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Test.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Units.frmListUnits.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Users.ctrlUserCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Users.frmAddUpdateUser.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Users.frmChangePassword.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Users.frmListUsers.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Users.frmPermissions.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.Users.frmUserInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmAddUpdateCategory.aa.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.frmAddUpdateCategory.ar.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages_Desktop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\aa\Storages.resources.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\ar\Storages.resources.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.exe.manifest
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.application
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.741DC314.Up2Date
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.exe
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن للسي في\مشروع المخازن بعد الانتهاء\Storages\Storages\obj\Debug\Storages.pdb

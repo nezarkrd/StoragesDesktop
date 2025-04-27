@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1DCE2481-29DF-4617-A4BF-2F2E08D0A84F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Storages</RootNamespace>
+    <AssemblyName>Storages</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Storages</ProductName>
+    <PublisherName>nezokrd</PublisherName>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>2F1FF79B54A92FCAD42F49F851857614C5C4F8BA</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Storages_Desktop_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Categories\frmListCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categories\frmListCategories.Designer.cs">
+      <DependentUpon>frmListCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\frmCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\frmCode.Designer.cs">
+      <DependentUpon>frmCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\frmSettingsNetwork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\frmSettingsNetwork.Designer.cs">
+      <DependentUpon>frmSettingsNetwork.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Storages\frmConvertBetweenStorages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Storages\frmConvertBetweenStorages.Designer.cs">
+      <DependentUpon>frmConvertBetweenStorages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\Controls\ctrlEmployeeCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Employees\Controls\ctrlEmployeeCard.Designer.cs">
+      <DependentUpon>ctrlEmployeeCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\Controls\ctrlEmployeeCardWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Employees\Controls\ctrlEmployeeCardWithFilter.Designer.cs">
+      <DependentUpon>ctrlEmployeeCardWithFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\frmAddUpdateEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\frmAddUpdateEmployee.Designer.cs">
+      <DependentUpon>frmAddUpdateEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\frmChangePasswordEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\frmChangePasswordEmployee.Designer.cs">
+      <DependentUpon>frmChangePasswordEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\frmEmployeeInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\frmEmployeeInfo.Designer.cs">
+      <DependentUpon>frmEmployeeInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\frmListEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\frmListEmployees.Designer.cs">
+      <DependentUpon>frmListEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categories\frmAddUpdateCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categories\frmAddUpdateCategory.Designer.cs">
+      <DependentUpon>frmAddUpdateCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global Classes\clsGlobal.cs" />
+    <Compile Include="Items\frmAddUpdateItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\frmAddUpdateItem.Designer.cs">
+      <DependentUpon>frmAddUpdateItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Items\frmItemContentInStorage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\frmItemContentInStorage.Designer.cs">
+      <DependentUpon>frmItemContentInStorage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Items\frmListItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\frmListItems.Designer.cs">
+      <DependentUpon>frmListItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Items\frmShowItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\frmShowItem.Designer.cs">
+      <DependentUpon>frmShowItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Items\frmUpdateUnitItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\frmUpdateUnitItem.Designer.cs">
+      <DependentUpon>frmUpdateUnitItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\Controls\ctrlPersonCardWithFilter1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="People\Controls\ctrlPersonCardWithFilter1.Designer.cs">
+      <DependentUpon>ctrlPersonCardWithFilter1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\frmFindPersoncs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\frmFindPersoncs.Designer.cs">
+      <DependentUpon>frmFindPersoncs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Storages\frmAddUpdateStorage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Storages\frmAddUpdateStorage.Designer.cs">
+      <DependentUpon>frmAddUpdateStorage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Storages\frmListOperationsConvertStorages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Storages\frmListOperationsConvertStorages.Designer.cs">
+      <DependentUpon>frmListOperationsConvertStorages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Storages\frmListOperationsStorages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Storages\frmListOperationsStorages.Designer.cs">
+      <DependentUpon>frmListOperationsStorages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Storages\frmListStorages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Storages\frmListStorages.Designer.cs">
+      <DependentUpon>frmListStorages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Storages\frmStorageContent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Storages\frmStorageContent.Designer.cs">
+      <DependentUpon>frmStorageContent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Units\frmAddUpdateUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Units\frmAddUpdateUnit.Designer.cs">
+      <DependentUpon>frmAddUpdateUnit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Storages\frmOperationsStorages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Storages\frmOperationsStorages.Designer.cs">
+      <DependentUpon>frmOperationsStorages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global Classes\clsUtil.cs" />
+    <Compile Include="Global Classes\clsValidations.cs" />
+    <Compile Include="People\Controls\ctrlPersonCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="People\Controls\ctrlPersonCard.Designer.cs">
+      <DependentUpon>ctrlPersonCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\frmAddUpdatePerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\frmAddUpdatePerson.Designer.cs">
+      <DependentUpon>frmAddUpdatePerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\frmListPeople.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\frmListPeople.Designer.cs">
+      <DependentUpon>frmListPeople.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\frmShowPersonInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\frmShowPersonInfo.Designer.cs">
+      <DependentUpon>frmShowPersonInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test.Designer.cs">
+      <DependentUpon>Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Units\frmListUnits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Units\frmListUnits.Designer.cs">
+      <DependentUpon>frmListUnits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Controls\ctrlUserCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Controls\ctrlUserCard.Designer.cs">
+      <DependentUpon>ctrlUserCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmAddUpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmAddUpdateUser.Designer.cs">
+      <DependentUpon>frmAddUpdateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmChangePassword.Designer.cs">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmListUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmListUsers.Designer.cs">
+      <DependentUpon>frmListUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmPermissions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmPermissions.Designer.cs">
+      <DependentUpon>frmPermissions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmUserInfo.Designer.cs">
+      <DependentUpon>frmUserInfo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Categories\frmAddUpdateCategory.aa.resx">
+      <DependentUpon>frmAddUpdateCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categories\frmAddUpdateCategory.ar.resx">
+      <DependentUpon>frmAddUpdateCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categories\frmListCategories.resx">
+      <DependentUpon>frmListCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\frmCode.resx">
+      <DependentUpon>frmCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\frmSettingsNetwork.resx">
+      <DependentUpon>frmSettingsNetwork.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Storages\frmConvertBetweenStorages.resx">
+      <DependentUpon>frmConvertBetweenStorages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\Controls\ctrlEmployeeCard.resx">
+      <DependentUpon>ctrlEmployeeCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\Controls\ctrlEmployeeCardWithFilter.resx">
+      <DependentUpon>ctrlEmployeeCardWithFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\frmAddUpdateEmployee.resx">
+      <DependentUpon>frmAddUpdateEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\frmChangePasswordEmployee.resx">
+      <DependentUpon>frmChangePasswordEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\frmEmployeeInfo.resx">
+      <DependentUpon>frmEmployeeInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\frmListEmployees.resx">
+      <DependentUpon>frmListEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categories\frmAddUpdateCategory.resx">
+      <DependentUpon>frmAddUpdateCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items\frmAddUpdateItem.resx">
+      <DependentUpon>frmAddUpdateItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items\frmItemContentInStorage.resx">
+      <DependentUpon>frmItemContentInStorage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items\frmListItems.resx">
+      <DependentUpon>frmListItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items\frmShowItem.resx">
+      <DependentUpon>frmShowItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items\frmUpdateUnitItem.resx">
+      <DependentUpon>frmUpdateUnitItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\Controls\ctrlPersonCardWithFilter1.resx">
+      <DependentUpon>ctrlPersonCardWithFilter1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\frmFindPersoncs.resx">
+      <DependentUpon>frmFindPersoncs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Storages\frmAddUpdateStorage.resx">
+      <DependentUpon>frmAddUpdateStorage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Storages\frmListOperationsConvertStorages.resx">
+      <DependentUpon>frmListOperationsConvertStorages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Storages\frmListOperationsStorages.resx">
+      <DependentUpon>frmListOperationsStorages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Storages\frmListStorages.resx">
+      <DependentUpon>frmListStorages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Storages\frmStorageContent.resx">
+      <DependentUpon>frmStorageContent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Units\frmAddUpdateUnit.resx">
+      <DependentUpon>frmAddUpdateUnit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Storages\frmOperationsStorages.resx">
+      <DependentUpon>frmOperationsStorages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\Controls\ctrlPersonCard.resx">
+      <DependentUpon>ctrlPersonCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\frmAddUpdatePerson.resx">
+      <DependentUpon>frmAddUpdatePerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\frmListPeople.resx">
+      <DependentUpon>frmListPeople.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\frmShowPersonInfo.resx">
+      <DependentUpon>frmShowPersonInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Test.resx">
+      <DependentUpon>Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Units\frmListUnits.resx">
+      <DependentUpon>frmListUnits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Controls\ctrlUserCard.resx">
+      <DependentUpon>ctrlUserCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmAddUpdateUser.resx">
+      <DependentUpon>frmAddUpdateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmListUsers.resx">
+      <DependentUpon>frmListUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmPermissions.resx">
+      <DependentUpon>frmPermissions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmUserInfo.resx">
+      <DependentUpon>frmUserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Storages_Desktop_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Storages_BuisnessLayer\Storages_BuisnessLayer.csproj">
+      <Project>{c9df20c0-0daf-4e32-b3b0-8825218b9225}</Project>
+      <Name>Storages_BuisnessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Storages_DataAccessLayer\Storages_DataAccessLayer.csproj">
+      <Project>{6c94383c-e80a-4ccb-9dc3-c3b9b82efe99}</Project>
+      <Name>Storages_DataAccessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-tiger-lily-4483610.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People 400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Female 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Male 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\categories.png" />
+    <Content Include="Resources\stand.png" />
+    <Content Include="Resources\storage.png" />
+    <Content Include="Resources\voxel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

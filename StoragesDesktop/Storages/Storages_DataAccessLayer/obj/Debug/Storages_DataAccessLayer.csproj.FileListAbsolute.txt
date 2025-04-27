@@ -1,0 +1,19 @@
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_DataAccessLayer\bin\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_DataAccessLayer\bin\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_DataAccessLayer\obj\Debug\Storages_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_DataAccessLayer\obj\Debug\Storages_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_DataAccessLayer\obj\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_DataAccessLayer\obj\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_DataAccessLayer\bin\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_DataAccessLayer\bin\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_DataAccessLayer\obj\Debug\Storages_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_DataAccessLayer\obj\Debug\Storages_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_DataAccessLayer\obj\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_DataAccessLayer\obj\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_DataAccessLayer\bin\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_DataAccessLayer\bin\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_DataAccessLayer\obj\Debug\Storages_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_DataAccessLayer\obj\Debug\Storages_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_DataAccessLayer\obj\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_DataAccessLayer\obj\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_DataAccessLayer\bin\Debug\Storages_DataAccessLayer.dll.config

@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\bin\Debug\Storages_BuisnessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\bin\Debug\Storages_BuisnessLayer.pdb
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\bin\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\bin\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\obj\Debug\Storages_BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\obj\Debug\Storages_BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\obj\Debug\Storages.B9A98608.Up2Date
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\obj\Debug\Storages_BuisnessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\obj\Debug\Storages_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\bin\Debug\Storages_BuisnessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\bin\Debug\Storages_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\bin\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\bin\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\obj\Debug\Storages_BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\obj\Debug\Storages_BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\obj\Debug\Storages.B9A98608.Up2Date
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\obj\Debug\Storages_BuisnessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Storages Desktop C#\Storages\Storages_BuisnessLayer\obj\Debug\Storages_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_BuisnessLayer\bin\Debug\Storages_BuisnessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_BuisnessLayer\bin\Debug\Storages_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_BuisnessLayer\bin\Debug\Storages_DataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_BuisnessLayer\bin\Debug\Storages_DataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_BuisnessLayer\obj\Debug\Storages_BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_BuisnessLayer\obj\Debug\Storages_BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_BuisnessLayer\obj\Debug\Storages.B9A98608.Up2Date
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_BuisnessLayer\obj\Debug\Storages_BuisnessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_BuisnessLayer\obj\Debug\Storages_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع المخازن بعد الانتهاء\Storages\Storages_BuisnessLayer\bin\Debug\Storages_DataAccessLayer.dll.config
